@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "846a76117ca83fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eb6ed648d1cbba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757fe3928d5e553b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/tabella_verita_punto6.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "tabella_verita_punto6"
+            }
+          },
+          {
+            "id": "9aa2c1d28c8240b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/punto5.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "punto5"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70f649250b39514f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab03e5db03e34ddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c7a1583b154734",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "851e16aa6fb2c492",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4107fc43ccb16e52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "87eaf2a5a7adbef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5471c976901e6916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9b85622a66c90ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Macchina S o C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Macchina S o C"
+            }
+          },
+          {
+            "id": "376474783e0a511a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Macchina S o C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Macchina S o C"
+            }
+          },
+          {
+            "id": "d0e468853d3bf6d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bdedc74719961fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Macchina S o C.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Macchina S o C"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "757fe3928d5e553b",
+  "lastOpenFiles": [
+    "Excalidraw/tabella_verita_punto6.md",
+    "Macchina S o C.md",
+    "Excalidraw/punto5.md",
+    "Esame caloclatori.md",
+    "Excalidraw/pallogramma.md",
+    "Excalidraw/m1m2.md",
+    "Excalidraw/pallogramma_punto5.md",
+    "Excalidraw/fmg.md",
+    "Excalidraw/Drawing 2025-11-06 09.50.52.excalidraw.md",
+    "img/c.png",
+    "img/Pasted image 20251106094141.png",
+    "img/Pasted image 20251106094150.png",
+    "img/testo.png",
+    "img/s.png",
+    "Excalidraw",
+    "img"
+  ]
+}
