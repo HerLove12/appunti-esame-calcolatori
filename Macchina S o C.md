@@ -44,5 +44,3 @@ stampare l'uscita $Z = \cdots10111101010 \cdots$ con $T=11$
 
 # Punto VI)
 ![[Excalidraw/tabella_verita_punto6]]
-
-a
